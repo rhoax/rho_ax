@@ -2,7 +2,6 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning CEH
 - 💞️ I’m looking to collaborate on Security
-- 📫 How to reach me Email
 
 <!---
 Ravi00100/Ravi00100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
